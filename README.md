@@ -5,7 +5,7 @@ USERID = "Your USPS ID"
 FILE = "address_file.csv"
 
 2. Install the following :
-pip install usps-api
+pip install usps-api,
 pip install pandas
 
 3. To Run :
