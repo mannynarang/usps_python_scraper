@@ -8,7 +8,7 @@ FILE = "address_file.csv"
 pip install usps-api,
 pip install pandas
 
-3. address file csv format expected: Company,	Street,	City,	St,	ZIPCode
+3. The address file csv format expected: Company,	Street,	City,	St,	ZIPCode
 
 4. To Run :
 python3 main.py
